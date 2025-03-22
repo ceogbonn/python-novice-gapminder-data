@@ -1,0 +1,160 @@
+    1  explorer.exe
+    2  pwd
+    3  ls
+    4  explorer.exe .
+    5  explorer.exe
+    6  explorer.exe .
+    7  ls
+    8  explorer.exe .
+    9  ls
+   10  cd
+   11  cd python-novice-gapminder-data/
+   12  ls
+   13  cd data/
+   14  pwd
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd ceogbonn/python-novice-gapminder-data/
+   19  cd ..
+   20  cd ceogbonn/
+   21  cd ..
+   22  ls
+   23  cd ceogbonn/
+   24  cd ..
+   25  ls
+   26  cd ceogbonn/python-novice-gapminder-data/
+   27  cd /
+   28  ls
+   29  cd mnt
+   30  ls
+   31  cd c
+   32  ls
+   33  cd Users
+   34  ls
+   35  cd baylyd
+   36  cd ceogbonn
+   37  cd Documents
+   38  cd Owner
+   39  cd Documents
+   40  cd
+   41  pwd
+   42  cd --help
+   43  ls --help
+   44  ls -F
+   45  cd python-novice-gapminder-data/
+   46  ls
+   47  ls -F
+   48  cd data/
+   49  ls 
+   50  ls -h
+   51  ls gapminder_
+   52  ls gap
+   53  ls mnt/
+   54  ls --help
+   55  ls -F
+   56  cd ..
+   57  ls
+   58  ls data
+   59  ls -F
+   60  ls data/
+   61  cd data/
+   62  ls -l
+   63  ls -lh
+   64  mkdir carpentries
+   65  mkdir my folder
+   66  mkdir my_folder
+   67  sudo mkdir carpentries
+   68  mkdir my_folder
+   69  mkdir my folder
+   70  mkdir carpentries
+   71  ls
+   72  rm my 
+   73  rm -r my
+   74  ls carpentries
+   75  sudo mkdir my folder
+   76  ls my folder
+   77  rm -r my
+   78  ls
+   79  rm -r my folder
+   80  ls 
+   81  sudo rm -r my folder
+   82  ls
+   83  sudu rm -r carpentries 
+   84  sudo rm -r carpentries 
+   85  ls
+   86  touch file 
+   87  ls
+   88  ls -lh
+   89  mv file paminder_all.csv folder
+   90  mv file gapminder_all.csv folder
+   91  sudo mv file gapminder_all.csv folder
+   92  sudo mkdir folder
+   93  sudo mv file gapminder_all.csv folder
+   94  ls folder
+   95  cd folder
+   96  ls file gapminder_all.csv
+   97  mv gapminder_all.csv
+   98  mv gapminder_all.csv ..
+   99  ls file
+  100  mv gapminder_all.csv .. file
+  101  ls ..folde
+  102  ls ..folder
+  103  ls -lh
+  104  mv file file.txt
+  105  sudo mvfile file.tst
+  106  sudo mv file file.txt
+  107  ls
+  108  sudo mv file file.txt
+  109  mv file file.txt
+  110  nano file.txt
+  111  sudo nano file.txt
+  112  ls
+  113  sudo mvgapmider_all.csv
+  114  sudo mvgapminder_all.csv
+  115  nano file_2.txt
+  116  sudo nano file_2.txt
+  117  ls history
+  118  history
+  119  history>history.txt 
+  120  sudo history>history.txt 
+  121  sudo history > history.txt
+  122  history > history.txt
+  123  rm -i history.txt
+  124  clear
+  125  ls
+  126  history
+  127  clear
+  128  history > history.txt
+  129  sudo history > history.txt
+  130  exit
+  131  pwd
+  132  ls
+  133  cd py
+  134  cd python-novice-gapminder-data/
+  135  ls
+  136  ls data
+  137  cd data
+  138  clear
+  139  ls
+  140  cd folder
+  141  ls
+  142  history
+  143  clear
+  144  history > history.txt
+  145  sudo history > history.txt
+  146  exit
+  147  pwd
+  148  cd
+  149  cd python-novice-gapminder-data/data
+  150  cd folder
+  151  sudo history > history.txt
+  152  ls
+  153  nano history.txt
+  154  cd ../..
+  155  ls /l
+  156  ls -l
+  157  whoami
+  158  sudo chown -R ceogbonn .
+  159  ls -l
+  160  history > histroy.txt

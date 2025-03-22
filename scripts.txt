@@ -1,0 +1,14 @@
+Commands we covered so far:
+git innit
+git add
+git commit
+
+git log
+git status
+
+git diff
+git show 
+git restore 
+git restore -s HEAD~1 
+
+git restore -s HEAD~9 your file 
