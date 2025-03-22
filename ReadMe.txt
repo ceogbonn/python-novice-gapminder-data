@@ -3,3 +3,4 @@ Chidinma Ogbonnaya
 Software carpentry notes
 Navigate files using SHELL 
 GitHub 
+Python tommorrow
